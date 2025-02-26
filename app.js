@@ -1,8 +1,3 @@
-/*let titulo = document.querySelector("h1"); //Selecciona el elemento <h1> del documento.
-titulo.innerHTML = "Juego del numero secreto";*/ //Modifica el contenido del elemento <h1> por "Juego del número secreto".
-
-/*let parrafo = document.querySelector("p"); //Selecciona el elemento <p> del documento.
-parrafo.innerHTML = "Indica un numero del 1 al 10";*/ //Modifica el contenido del elemento <p> por "Indica un número del 1 al 10".
 
 let numeroSecreto = 0; 
 let intentos = 0; 
